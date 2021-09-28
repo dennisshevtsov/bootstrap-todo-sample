@@ -1,0 +1,7 @@
+{
+  "name": "boostrap-todo-sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
